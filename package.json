@@ -1,0 +1,21 @@
+{
+  "name": "fis3-postpackager-html-replace",
+  "version": "1.0.1",
+  "description": "用于替换html内元素",
+  "main": "./libs/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clunt/fis3-postpackager-html-replace.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Clunt/fis3-postpackager-html-replace/issues"
+  },
+  "homepage": "https://github.com/Clunt/fis3-postpackager-html-replace#readme"
+}
